@@ -11,6 +11,8 @@
 
 Building on-chain experiences, smart contracts, and tools for the decentralized web.
 
+<img src="https://raw.githubusercontent.com/Nabibolat/Nabibolat/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
 [![GitHub](https://img.shields.io/badge/GitHub-Nabibolat-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Nabibolat)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nabibolat&style=for-the-badge&color=101b2d&label=PROFILE+VIEWS)](https://github.com/Nabibolat)
 
@@ -75,10 +77,6 @@ A few projects from my GitHub:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabibolat&bg_color=0d1117&color=c9d1d9&line=00F5FF&point=7B61FF&area=true&hide_border=true" alt="Contribution activity graph" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Nabibolat/Nabibolat/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
