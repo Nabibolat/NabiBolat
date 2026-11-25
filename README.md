@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# <span style="color:#00F5FF">BOLAT</span>
+# BOLAT
 
 ### WEB3 & BLOCKCHAIN DEVELOPER
 
@@ -75,6 +75,10 @@ A few projects from my GitHub:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabibolat&bg_color=0d1117&color=c9d1d9&line=00F5FF&point=7B61FF&area=true&hide_border=true" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Nabibolat/Nabibolat/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
